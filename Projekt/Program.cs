@@ -8,7 +8,7 @@ namespace Projekt
         {
             Console.WriteLine("DNovo");
         }
-        //Bilo sta
+        //Bilo sta asda
     }
     // Nesto nesto
 }
